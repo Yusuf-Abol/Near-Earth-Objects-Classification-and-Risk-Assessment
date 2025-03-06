@@ -1,2 +1,2 @@
-# Near-Earth-Object-Classification-and-Risk-Assessment-
+# Near-Earth-Object-Risk-Assessment
 
