@@ -1,4 +1,4 @@
-# Near-Earth-Objects-EDA-and-Risk-Assessment
+# Near-Earth Objects Classification and Risk-Assessment: An Exploratory Study
 
 ### Overview
 
