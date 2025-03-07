@@ -16,7 +16,7 @@ This project analyzes Near-Earth Objects (NEOs) to distinguish Potentially Hazar
   - EDA & Visualization: Matplotlib, Seaborn, Plotly
   - Statistical Analysis: Mann-Whitney U Test, Cliff’s Delta Effect Size
   - Feature Importance: SHAP (SHapley Additive Explanations)
-  - Machine Learning: Classification models (Optional for future improvements)
+  - Machine Learning: Data preprocessing for classification models 
 
     
 ---
