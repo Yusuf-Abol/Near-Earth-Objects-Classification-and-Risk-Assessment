@@ -18,3 +18,21 @@ This project analyzes Near-Earth Objects (NEOs) to distinguish Potentially Hazar
   - Feature Importance: SHAP (SHapley Additive Explanations)
   - Machine Learning: Classification models (Optional for future improvements)
 
+    
+---
+### Reference
+
+  - [Near-Earth-Object | Wikipedia ](https://en.wikipedia.org/wiki/Near-Earth_object)
+
+  - [NEOs Basics | NASA ](https://cneos.jpl.nasa.gov/about/neo_groups.html)
+
+  - [Asteroid 2024 YR4 no longer poses significant impact risk | European Space Agency ](https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_2024_YR4_no_longer_poses_significant_impact_risk)
+
+  - [ Cliff's delta calculator | University of California San Francisco library](  https://search.library.ucsf.edu/discovery/fulldisplay?docid=cdi_scielo_journals_S1657_92672011000200018&context=PC&vid=01UCS_SAF:UCSF&lang=en&search_scope=DN_and_CI&adaptor=Primo%20Central&query=null,,1,AND&facet=citing,exact,cdi_FETCH-LOGICAL-c446t-50082f28956bdaaf4a39983b6260dc118caa28f2cb93d6e6be5b64416d46a5003&offset=20)
+
+ - [Mann-Whitney U test | Data Lab](https://datatab.net/tutorial/mann-whitney-u-test)
+
+  - [ Effect size for Mann-Whitney U test | Dr. Todd Grande](https://www.youtube.com/watch?v=ILD5Jvmokig)
+
+
+  - Introduction to Modern Statistics | Mine Çetinkaya-Rundel and Johanna Hardin
