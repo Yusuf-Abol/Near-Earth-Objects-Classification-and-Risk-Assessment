@@ -1,4 +1,4 @@
-# Near-Earth Objects Classification and Risk Assessment (NEOCLARA): An Exploratory Study
+# Near-Earth Objects Classification and Risk Assessment (NEOCLARA)
 
 ### Overview
 
